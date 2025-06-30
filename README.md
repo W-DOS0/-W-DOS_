@@ -29,6 +29,37 @@
 
 ---
 
+### 🤖 **AI/ML Stack**  
+**🔍 Frameworks & Models**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/-Ollama-7E5BEF?style=flat)  
+![LocalAI](https://img.shields.io/badge/-LocalAI-7E5BEF?style=flat)  
+![llama.cpp](https://img.shields.io/badge/-llama.cpp-FF6C37?style=flat) 
+![Text-gen-webui](https://img.shields.io/badge/-Text%20Gen%20WebUI-7E5BEF?style=flat)  
+
+**🦙 Local/Cloud Models**  
+`GGML/GGUF` (LLaMA, Mistral, Phi)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google-gemini&logoColor=white)  
+
+**📊 Data & Tools**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![TensorBoard](https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FFD43B?style=flat)  
+
+**🎨 Generative AI**  
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-000000?style=flat) 
+![ControlNet](https://img.shields.io/badge/-ControlNet-000000?style=flat)  
+![Whisper](https://img.shields.io/badge/-Whisper-000000?style=flat&logo=openai&logoColor=white) 
+![VITS](https://img.shields.io/badge/-VITS-FF6C37?style=flat)  
+
+---
+
 #### 🖼 Frontend  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -127,6 +158,13 @@
 
 ---
 
+### 📱 **Mobile & Extensions**  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat&logo=google-chrome&logoColor=white)  
+
+---
+
 ### 🌐 Web3 Stack
 
 #### 🔐 Smart Contract Languages  
@@ -174,8 +212,23 @@
 #### 📜 Standards  
 `ERC-20` · `ERC-721` · `ERC-1155` · `EIP-2535` · `EIP-712`
 
-#### 🧩 Ecosystem Apps  
-dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · zk-SNARKs / zk-Rollups
+🧩 dApps & Protocols
+https://img.shields.io/badge/-dApps-000000?style=flat&logo=ethereum&logoColor=white
+https://img.shields.io/badge/-OpenSea-2081E2?style=flat&logo=opensea&logoColor=white
+https://img.shields.io/badge/-Rarible-FEDA03?style=flat&logo=rarible&logoColor=black
+
+🏛 DAOs & Governance
+https://img.shields.io/badge/-DAOs-FF5DA0?style=flat&logo=aragon&logoColor=white
+https://img.shields.io/badge/-Snapshot-000000?style=flat
+
+💰 DeFi
+https://img.shields.io/badge/-Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white
+https://img.shields.io/badge/-Aave-7E5BEF?style=flat&logo=aave&logoColor=white
+
+🔐 zkTech
+https://img.shields.io/badge/-zk--SNARKs-000000?style=flat&logo=zksync&logoColor=white
+https://img.shields.io/badge/-zk--Rollups-000000?style=flat&logo=zksync&logoColor=white
+https://img.shields.io/badge/-StarkNet-000000?style=flat&logo=starknet&logoColor=white
 
 ---
 
