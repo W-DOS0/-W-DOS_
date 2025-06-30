@@ -211,7 +211,7 @@
 #### 📜 Standards  
 `ERC-20` · `ERC-721` · `ERC-1155` · `EIP-2535` · `EIP-712`
 
-🧩 dApps & Protocols
+#### 🧩 Ecosystem Apps  
 dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · zk-SNARKs / zk-Rollups
 
 ---
