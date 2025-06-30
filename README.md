@@ -40,7 +40,6 @@
 ![Text-gen-webui](https://img.shields.io/badge/-Text%20Gen%20WebUI-7E5BEF?style=flat)  
 
 **🦙 Local/Cloud Models**  
-`GGML/GGUF` (LLaMA, Mistral, Phi)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google-gemini&logoColor=white)  
 
@@ -213,22 +212,7 @@
 `ERC-20` · `ERC-721` · `ERC-1155` · `EIP-2535` · `EIP-712`
 
 🧩 dApps & Protocols
-https://img.shields.io/badge/-dApps-000000?style=flat&logo=ethereum&logoColor=white
-https://img.shields.io/badge/-OpenSea-2081E2?style=flat&logo=opensea&logoColor=white
-https://img.shields.io/badge/-Rarible-FEDA03?style=flat&logo=rarible&logoColor=black
-
-🏛 DAOs & Governance
-https://img.shields.io/badge/-DAOs-FF5DA0?style=flat&logo=aragon&logoColor=white
-https://img.shields.io/badge/-Snapshot-000000?style=flat
-
-💰 DeFi
-https://img.shields.io/badge/-Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white
-https://img.shields.io/badge/-Aave-7E5BEF?style=flat&logo=aave&logoColor=white
-
-🔐 zkTech
-https://img.shields.io/badge/-zk--SNARKs-000000?style=flat&logo=zksync&logoColor=white
-https://img.shields.io/badge/-zk--Rollups-000000?style=flat&logo=zksync&logoColor=white
-https://img.shields.io/badge/-StarkNet-000000?style=flat&logo=starknet&logoColor=white
+dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · zk-SNARKs / zk-Rollups
 
 ---
 
