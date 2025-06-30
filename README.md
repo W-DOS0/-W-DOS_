@@ -148,6 +148,15 @@
 
 ---
 
+### 🤖 **Telegram Development**
+![Telegram Bots](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Telegram Mini Apps](https://img.shields.io/badge/-Telegram%20Mini%20Apps-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Bot API](https://img.shields.io/badge/-Bot%20API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Web Apps](https://img.shields.io/badge/-Web%20Apps-26A5E4?style=flat&logo=telegram&logoColor=white)
+![TWA](https://img.shields.io/badge/-TWA%20(Telegram%20Web%20Apps)-26A5E4?style=flat&logo=telegram&logoColor=white)
+
+---
+
 #### 🎮 Game Development  
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
