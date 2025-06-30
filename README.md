@@ -1,8 +1,5 @@
-# -W-DOS_
-
-
 <p align="center">
-  <img src="https://ibb.co/MDBbqJWX" alt="Banner" />
+  <img src="https://i.ibb.co/8DYJFQTh/WDOS-Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm [W]DOS_</h1>
