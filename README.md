@@ -148,6 +148,25 @@
 
 ---
 
+### 🎨 3D Modeling & Design
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/-3D_Modeling-ff007f?style=flat)
+![UV Mapping](https://img.shields.io/badge/-UV_Mapping-ff007f?style=flat)
+![Texturing](https://img.shields.io/badge/-Texturing-ff007f?style=flat)
+![Rendering](https://img.shields.io/badge/-Rendering-ff007f?style=flat)
+![FBX/OBJ/GLTF](https://img.shields.io/badge/-FBX/OBJ/GLTF-ff007f?style=flat)
+
+---
+
+### 🤖 Discord Development
+![Discord Bots](https://img.shields.io/badge/-Discord_Bots-5865F2?style=flat&logo=discord&logoColor=white)
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
+![Slash Commands](https://img.shields.io/badge/-Slash_Commands-5865F2?style=flat&logo=discord&logoColor=white)
+![OAuth2](https://img.shields.io/badge/-OAuth2-5865F2?style=flat&logo=discord&logoColor=white)
+![Webhooks](https://img.shields.io/badge/-Webhooks-5865F2?style=flat&logo=discord&logoColor=white)
+
+---
+
 ### 🤖 **Telegram Development**
 ![Telegram Bots](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![Telegram Mini Apps](https://img.shields.io/badge/-Telegram%20Mini%20Apps-26A5E4?style=flat&logo=telegram&logoColor=white)
