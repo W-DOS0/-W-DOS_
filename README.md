@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋 I'm [W]DOS_</h1>
 
 <p align="center">
-  <b>Full-Stack & Web3 Developer | Designed to Think Ahead</b>
+  <b>Full-Stack Developer | Designed to Think Ahead</b>
 </p>
 
 ---
