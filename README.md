@@ -256,4 +256,4 @@ dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · 
 
 ### 🌐 Find Me Elsewhere  
 🌍 Website: *Coming Soon*  
-💼 LinkedIn: *Coming Soon*
+💼 LinkedIn: www.linkedin.com/in/w-dos
